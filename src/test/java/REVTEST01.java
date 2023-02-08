@@ -17,15 +17,17 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class REVTEST01 {
 
     @Test
-    public void evaluatesExpressionTest() {
-        Hello hi = new Hello();
-        int sum = hi.evaluate("1+2+3");
-        assertEquals(9, sum);
+    public void FILE_02_TEST_01() {
+        Hello WORLD = new Hello();
+        int SUM = WORLD.evaluate("3+3+3");
+        assertEquals(9, SUM);
     }
-    @Test
-    public void evaluatesExpressionTest1() {
-        Hello hi = new Hello();
-        int sum = hi.evaluate("1+2+3");
-        assertEquals(9, sum);
+  
+  @Test
+    public void FILE_02_TEST_02() {
+        Hello WORLD = new Hello();
+        int SUM = WORLD.evaluate("4+5");
+        assertEquals(9, SUM);
     }
 }
+    
