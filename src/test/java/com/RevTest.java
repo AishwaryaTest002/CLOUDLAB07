@@ -16,7 +16,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  */
 //@Test
 //@Test
-public class HelloTest1 {
+public class RevTest {
 
     @Test
     public void evaluatesExpressionTest() {
