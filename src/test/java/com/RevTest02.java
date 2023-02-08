@@ -1,4 +1,6 @@
 
+package com;
+
 import org.junit.jupiter.api.Test;
 
 import com.example.javamavenjunithelloworld.Hello;
@@ -15,7 +17,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  */
 //@Test
 //@Test
-public class RevTest2 {
+public class RevTest02 {
 
     @Test
     public void evaluatesExpressionTest() {
