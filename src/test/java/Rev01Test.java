@@ -4,6 +4,8 @@ import com.example.javamavenjunithelloworld.Hello;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+//@Test
+
 
 
 public class Rev01Test {
